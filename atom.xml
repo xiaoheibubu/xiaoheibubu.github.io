@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoheibubu.github.io</id>
     <title>小黑&apos;s Blog</title>
-    <updated>2022-02-17T05:16:28.337Z</updated>
+    <updated>2022-02-17T05:21:02.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoheibubu.github.io"/>
     <link rel="self" href="https://xiaoheibubu.github.io/atom.xml"/>
@@ -40,7 +40,7 @@
 <p><strong>与别处宣传文章有删减</strong></p>
 </blockquote>
 <blockquote>
-<p><strong>软件下载地址：</strong><a href="https://appshare.muge.info/">https://appshare.muge.info/</a></p>
+<p><strong>下载地址：</strong><a href="https://appshare.muge.info/">https://appshare.muge.info/</a></p>
 </blockquote>
 <img src="https://cdn.jsdelivr.net/gh/zyc2004/www.xiaohei.tk/img/APP分享01.png"/>
 ]]></content>
