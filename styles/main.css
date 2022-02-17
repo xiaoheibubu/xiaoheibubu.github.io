@@ -2107,7 +2107,7 @@ body {
       color: #222;
       border-bottom-color: #222;
     }.nav-toggle .line {
-      background-color: #ced4da !important;
+      background-color: #eee !important;
     }
       .nav-item a {
         color:  #555;
@@ -2157,10 +2157,10 @@ body {
       background-color: #fffffffe;
     }
     .site-meta {
-      background: #ffffff !important;
+      background: #f8f9fa !important;
     }
     .head-top-line {
-      background: #ffffff;
+      background: #f8f9fa;
     }
     .brand {
   
