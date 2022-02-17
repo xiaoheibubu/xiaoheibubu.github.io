@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoheibubu.github.io</id>
     <title>小黑&apos;s Blog</title>
-    <updated>2022-02-16T15:26:02.097Z</updated>
+    <updated>2022-02-17T05:10:34.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoheibubu.github.io"/>
     <link rel="self" href="https://xiaoheibubu.github.io/atom.xml"/>
@@ -13,8 +13,8 @@
     <rights>All rights reserved 2022, 小黑&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[App Share新春宣传特别版]]></title>
-        <id>https://xiaoheibubu.github.io/post/App Share/</id>
-        <link href="https://xiaoheibubu.github.io/post/App Share/">
+        <id>https://xiaoheibubu.github.io/post/AppShare/</id>
+        <link href="https://xiaoheibubu.github.io/post/AppShare/">
         </link>
         <updated>2022-01-30T12:43:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://gitee.com/xiaoheiya6/xiaohie.tc/raw/master/xiaohie.tc/1A7AF6CF78F41735366C31434217482A.jpg"/>
