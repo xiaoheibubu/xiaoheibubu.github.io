@@ -2069,7 +2069,7 @@ body {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeefe;
+      background: #ced4dafe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2107,7 +2107,7 @@ body {
       color: #222;
       border-bottom-color: #222;
     }.nav-toggle .line {
-      background-color: #eee !important;
+      background-color: #212529 !important;
     }
       .nav-item a {
         color:  #555;
